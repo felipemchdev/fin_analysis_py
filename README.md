@@ -1,1 +1,4 @@
-Financial Analysis , made with Python , Pandas and Numpy.
+Financial Analysis , made with Python , Pandas and Streamlit.
+
+
+UTILIZE JUPYTER PARA VER A TABELA!
