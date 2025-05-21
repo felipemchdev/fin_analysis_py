@@ -5,7 +5,7 @@
 - Análise de dados financeiros utilizando Pandas  
 - Visualizações gráficas para facilitar a interpretação dos dados  
 - Importação de dados via arquivo CSV  
-- Utilização do Jupyter Notebook para visualização de tabelas:contentReference[oaicite:17]{index=17}
+- Utilização do Jupyter Notebook para visualização de tabelas
 
 ---
 
