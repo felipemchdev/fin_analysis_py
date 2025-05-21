@@ -40,7 +40,7 @@ streamlit run dashboards.py
 ```
 
 ### Acesse o dashboard em:
-`http://localhost:8501/`
+Pelo VSCode , Faça o uso do ```Jupyter Notebook``` para ver os painéis.
 
 ---
 
